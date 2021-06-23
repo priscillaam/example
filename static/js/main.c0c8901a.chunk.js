@@ -1,0 +1,2 @@
+(this.webpackJsonpcaptcha2=this.webpackJsonpcaptcha2||[]).push([[0],{4:function(e,c,t){"use strict";t.r(c);t(1);var s=t(3),a=t.n(s),n=(t(9),t(0));function r(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsxs)("header",{className:"App-header",children:[Object(n.jsx)("h1",{children:"My react app"}),Object(n.jsx)("p",{children:"Author: priscilla"})]})})}a.a.render(Object(n.jsx)(r,{}),document.getElementById("root"))},9:function(e,c,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.c0c8901a.chunk.js.map
